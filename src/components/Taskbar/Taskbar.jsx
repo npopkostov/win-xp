@@ -2,7 +2,7 @@ import React, { useContext, useState, useRef } from "react";
 import startBtn from "../../assets/Start2Icon.png";
 import soundIcon from "../../assets/soundIcon.png";
 import windowsDefence from "../../assets/windowsDefenceIcon.png";
-import hotplugIcon from "../../assets/hotplugicon.png";
+import hotplugIcon from "../../assets/hotplugIcon.png";
 import { AppContext } from "../../context/AppContext";
 
 const Taskbar = () => {
