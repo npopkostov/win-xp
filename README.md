@@ -14,7 +14,7 @@ Stay tuned for upcoming features and additional applications.
 
 🌐 Live Version
 
-Check out the live version here: Live Demo
+Check out the live version here: https://win-xp-recreation.netlify.app/
 
 📌 Tech Stack
 
