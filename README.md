@@ -1,8 +1,34 @@
-# React + Vite
+Windows XP Adaptation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚧 Still in Development
 
-Currently, two official plugins are available:
+An interesting Windows XP adaptation built with React and TailwindCSS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎮 Currently Available App
+
+Wolfenstein 3D
+
+🚀 More Apps Coming Soon!
+
+Stay tuned for upcoming features and additional applications.
+
+🌐 Live Version
+
+Check out the live version here: Live Demo
+
+📌 Tech Stack
+
+Frontend: React, TailwindCSS
+
+📢 Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+📜 License
+
+This project is licensed under the MIT License.
+
+⭐ If you like this project, consider giving it a star!
+
+but this is not markup language i need to copy and paste it in github
+
