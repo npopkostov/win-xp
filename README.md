@@ -24,11 +24,5 @@ Frontend: React, TailwindCSS
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-📜 License
 
-This project is licensed under the MIT License.
-
-⭐ If you like this project, consider giving it a star!
-
-but this is not markup language i need to copy and paste it in github
 
